@@ -1,1 +1,1 @@
-# cryptory-cs
+# cryptory-config server
